@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "stdlib.h": "c",
+        "iostream": "cpp",
+        "string.h": "c"
+    }
+}
